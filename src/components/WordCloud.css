@@ -46,7 +46,6 @@ body {
  * Layout
  */
 .wordcloud__container_cloud {
-  max-width: 100%;
   flex: 0 0 400px;
   text-align: center;
 }
